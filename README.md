@@ -15,6 +15,7 @@ const tanya = {
   height: 168cm,
   color: #30d5c8,
   animal: "cat",
-  quote: "do it or do not there is no try"
+  quote: "do it or do not there is no try",
+  email: horechek444@gmail.com,
 }
 ```
