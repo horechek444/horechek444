@@ -12,7 +12,7 @@
 const tanya = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Javascript, Typescript, React, Styled-Components, Material-UI],
-  height: 168cm,
+  height: 165cm,
   color: #30d5c8,
   animal: "cat",
   quote: "do it or do not there is no try",
